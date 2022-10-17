@@ -1,0 +1,51 @@
+* {
+	font-family: nunito sans;
+	color:#7413dc;
+	
+}
+
+nav {
+	background-color: #7413dc;
+}
+
+#updates{
+	background-color: #7413dc;
+}
+
+#updates h2{
+	color:white;
+}
+
+#updates em{
+	color:white;
+}
+
+#updates p{
+	color:white;
+}
+
+nav [href]{
+	color: white;
+	font-size:16pt;
+}
+
+thead{
+	text-align: center;
+	font-size:12pt;
+	color: #ff;
+}
+
+td{
+	text-align:center;
+	font-weight:bold;
+}
+
+.caption{
+	color:gray;
+	font-size:10pt;
+}
+
+.dyk{
+	color: white;
+	background: #7413dc;
+}
