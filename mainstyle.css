@@ -1,0 +1,83 @@
+/*Changes font for entire site to Nunito Sans*/
+*{
+	font-family: nunito sans;
+}
+/*Sets size and text color for website contents*/
+body{
+	max-width: 1499px;
+	min-width: 499px;
+	padding:0px 100px;
+	color: #7413dc;
+}
+/* sets link colour to Scouts purple*/
+body [href]{
+	color: #7413dc;
+}
+/*Changes table size to work with body sizing and content*/
+table{
+	margin: 0 auto;
+}
+/* Changes colour of hyperlinks when mouse hovers*/
+a:hover{
+	color: blue;
+}
+
+body a:hover{
+	color: blue;
+}
+/*Adjusts settings for heading class*/
+.heading{
+	background-color: royalblue;
+	height: 75px;
+	text-align: center;
+	line-height:75px;
+	color: yellow;
+	font-size: 24pt;
+}
+/*Changes settings for navigation class*/
+.navigation{
+	padding: 10px;
+	background-color: #7413dc;
+}
+/*Changes hyperlink colours to white in navigation*/
+.navigation [href]{
+	color: white;
+	font-size: 12pt;
+}
+/*Gives space around each hyperlink in the navigation bar*/
+.plink{
+	padding: 5px;
+}
+/*Changes settings for the footer bar*/
+.footing{
+	padding: 0px;
+	padding-left: 1px;
+	background-color: #7413dc;
+	color: white;
+}
+/*Adjusts settings for badgetable class *//*ONLY ADJUST OR USE FOR BADGES PAGE*/
+.badgetable{
+	max-width: 1400px;
+	text-align: center;
+	padding-top: 15px;
+	
+}
+/*adjust class: tablehead*/
+.tablehead{
+	color: white;
+	line-height: 20px;
+	background-color: #7413dc;
+	text-align: center;
+	vertical-align: bottom;
+	padding-top: 15px;
+	font-size: 12pt;
+}
+/*Adjusts table contents sizing*/
+table td{
+	padding: 5px auto;
+	font-size: 10pt;
+}
+/*adjusts main class*/
+.main{
+	padding: 0px 15px;
+}
