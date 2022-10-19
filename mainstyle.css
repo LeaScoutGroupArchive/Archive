@@ -82,3 +82,24 @@ table td{
 .main{
 	padding: 0px 15px;
 }
+
+/*Changes anything with the cub class to have Scout green background and white text*/
+.cub{
+	background-color: #23a950;
+	color: white;
+}
+/*Changes anything with the scout class to have Scout section green background and white text*/
+.scout{
+	background-color: #004851;
+	color: white;
+}
+/*Changes anything in the venture class to have Scout navy background and white text*/
+.venture{
+	background-color: #003982;
+	color: white;
+}
+/*Gives table head purple background with white text*/
+th{
+	background-color: #7413dc;
+	color: white;
+}
