@@ -60,6 +60,7 @@ body a:hover{
 	color: white;
 	font-size: 10pt;
 	border-radius: 50px;
+	text-align: center;
 }
 /*Adjusts settings for badgetable class *//*ONLY ADJUST OR USE FOR BADGES PAGE*/
 .badgetable{
