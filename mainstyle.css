@@ -33,11 +33,15 @@ body a:hover{
 	line-height:75px;
 	color: yellow;
 	font-size: 2vw;
+	border-top-left-radius: 10px;
+	border-top-right-radius:10px;
 }
 /*Changes settings for navigation class*/
 .navigation{
 	padding: 10px;
 	background-color: #7413dc;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius:10px;
 }
 /*Changes hyperlink colours to white in navigation*/
 .navigation [href]{
@@ -55,6 +59,7 @@ body a:hover{
 	background-color: #7413dc;
 	color: white;
 	font-size: 10pt;
+	border-radius: 50px;
 }
 /*Adjusts settings for badgetable class *//*ONLY ADJUST OR USE FOR BADGES PAGE*/
 .badgetable{
